@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://portfoliotopu.netlify.app/](https://portfoliotopu.netlify.app/)
+- 👨‍💻 All of my projects are available at https://portfoliotauhidtopu.netlify.app/
 
 - 💬 Ask me about **React**
 
