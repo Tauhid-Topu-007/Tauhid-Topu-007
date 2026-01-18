@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tauhid-topu-007&label=Profile%20views&color=0e75b6&style=flat" alt="tauhid-topu-007" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 🤝 I’m looking for help with **DevOps**
 
