@@ -1,101 +1,69 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=2D9EF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Tauhidul+Islam+Topu;MERN+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Tauhidul+Islam+Topu;MERN+Stack+Developer;Machine+Learning+Enthusiast;Building+Awesome+Stuff+Daily" alt="Typing SVG" />
+</div>
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  A passionate developer from Bangladesh
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tauhid-topu-007&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/tauhid-topu-007?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/tauhid-topu-007?label=Total%20Stars&style=social" alt="stars" />
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square" alt="PRs Welcome" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tauhid-topu-007&label=PROFILE+VIEWS&style=for-the-badge&color=00F5FF" />
+  <img src="https://img.shields.io/github/followers/tauhid-topu-007?style=for-the-badge&logo=github&color=00F5FF" />
+  <img src="https://img.shields.io/github/stars/tauhid-topu-007?style=for-the-badge&logo=github&color=00F5FF" />
+</div>
 
 ---
 
-### 🧑‍💻 About Me
+### 🌟 **About Me**
 
 ```mermaid
-graph LR
-    A[Tauhidul Islam Topu] --> B{MERN Stack}
-    A --> C{Machine Learning}
-    A --> D{DevOps}
-    B --> E[React.js]
-    B --> F[Node.js]
-    B --> G[MongoDB]
-    C --> H[Python]
-    C --> I[TensorFlow]
-    D --> J[Docker]
-    D --> K[AWS]
-🔭 I'm currently working on building scalable MERN applications
-
-🌱 Learning Machine Learning & DevOps
-
-👯 Looking to collaborate on open-source projects
-
-💬 Ask me about React, Node.js, MongoDB, or anything tech!
-
-⚡ Fun fact: I love solving complex problems and teaching others
-
-📫 How to reach me: t.topu021@gmail.com
-
-🌐 Portfolio: tauhidtopu.netlify.app
-
-📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tauhid-topu-007&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=2D9EF7&icon_color=2D9EF7" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tauhid-topu-007&hide_border=true&theme=radical&background=0d1117&stroke=2D9EF7&ring=2D9EF7&fire=2D9EF7&currStreakNum=2D9EF7" alt="GitHub Streak" width="48%" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhid-topu-007&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=2D9EF7" alt="Top Languages" width="45%" /> </p>
-🛠️ Tech Stack & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,tailwind,bootstrap,html,css,git,github,firebase,postman,python,java,c,cpp,aws,mysql,linux,vscode,figma" /> </p>
-🚀 Current Projects & Goals
-<p align="center"> <img src="https://img.shields.io/badge/🚀-Current%20Projects-2D9EF7?style=for-the-badge" /> </p>
-Project	Status	Tech Stack
-E-Commerce Platform	🟢 Active	MERN, Tailwind, Redux
-ML-Powered Analytics Dashboard	🟡 In Progress	Python, TensorFlow, React
-DevOps Pipeline Automation	🔵 Planning	Docker, AWS, GitHub Actions
-📈 Activity & Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tauhid-topu-007&theme=react-dark&bg_color=0d1117&hide_border=true&color=2D9EF7&line=2D9EF7&point=FFFFFF" alt="Activity Graph" /> </p>
-🏆 Achievements & Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tauhid-topu-007&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" /> </p>
-💡 Weekly Development Breakdown
+mindmap
+  root((Tauhidul Islam Topu))
+    MERN Stack
+      React.js
+      Node.js
+      Express.js
+      MongoDB
+    Machine Learning
+      Python
+      TensorFlow
+      Scikit-learn
+    DevOps
+      Docker
+      AWS
+      CI/CD
+    Soft Skills
+      Problem Solving
+      Team Leadership
+      Communication
+<table> <tr> <td valign="top" width="50%"> <h3>💻 Current Focus</h3> <ul> <li>🔭 Building <b>MERN Stack Applications</b> with advanced features</li> <li>🌱 Deep diving into <b>Machine Learning & AI</b></li> <li>🤝 Looking for help with <b>DevOps & Cloud Architecture</b></li> <li>💬 Ask me about <b>React, Node.js, MongoDB</b></li> <li>📫 Reach me: <b>t.topu021@gmail.com</b></li> </ul> </td> <td valign="top" width="50%"> <h3>🚀 Quick Stats</h3> <ul> <li>📅 Coding since <b>2020</b></li> <li>🎯 50+ Projects Completed</li> <li>⭐ 20+ GitHub Stars</li> <li>🤝 10+ Collaborations</li> <li>🌐 <a href="https://portfoliotauhidtopu.netlify.app/"><b>Portfolio</b></a></li> </ul> </td> </tr> </table>
+🛠️ Tech Stack
+<div align="center"> <table> <tr> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python </td> </tr> <tr> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br/>Bootstrap </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML5 </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS3 </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub </td> </tr> <tr> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=firebase" width="40"/><br/>Firebase </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=aws" width="40"/><br/>AWS </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>Docker </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=java" width="40"/><br/>Java </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/>C++ </td> </tr> </table> </div>
+📊 GitHub Analytics
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tauhid-topu-007&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tauhid-topu-007&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakNum=00F5FF" /> </div><div align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhid-topu-007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF" /> <img width="45%" src="https://github-profile-trophy.vercel.app/?username=tauhid-topu-007&theme=radical&no-frame=true&row=1&column=4&margin-w=15" /> </div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tauhid-topu-007&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F5FF&line=00F5FF&point=FFFFFF" /> </div>
+📈 Coding Activity
+<details> <summary><b>📊 Weekly Development Breakdown</b></summary> <br/> <div align="center">
 text
-JavaScript    ████████████████████░░   45.2%
-Python        ████████████░░░░░░░░░░   28.7%
-HTML/CSS      ████████░░░░░░░░░░░░░░   15.3%
-C++           ████░░░░░░░░░░░░░░░░░░   8.5%
-Others        ██░░░░░░░░░░░░░░░░░░░░   2.3%
-🎯 GitHub Metrics
-<p align="center"> <img src="https://github.com/tauhid-topu-007/tauhid-topu-007/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" /> </p>
-🧠 Random Dev Quote of the Day
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </p>
-🤝 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/tauhid-topu" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/tauhid_topu" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://github.com/tauhid-topu-007" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://portfoliotauhidtopu.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="mailto:t.topu021@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://discord.com/users/your-discord-id" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> </p>
-📊 Last 30 Days Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tauhid_topu&hide_border=true&theme=radical&bg_color=0d1117&title_color=2D9EF7" alt="Wakatime Stats" /> </p>
-🔥 Featured Repositories
-<p align="center"> <a href="https://github.com/tauhid-topu-007/mern-ecommerce"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tauhid-topu-007&repo=mern-ecommerce&theme=radical&hide_border=true" /> </a> <a href="https://github.com/tauhid-topu-007/ml-dashboard"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tauhid-topu-007&repo=ml-dashboard&theme=radical&hide_border=true" /> </a> </p>
-💬 Support My Work
-<p align="center"> <a href="https://www.buymeacoffee.com/tauhidtopu" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" /> </a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" /> </p>
-⭐️ Feel free to star my repositories and follow for more!
-
-text
-
-This enhanced version includes:
-
-1. **Working Typing SVG** - Uses the correct Heroku-based typing SVG that works reliably
-2. **Mermaid Diagram** - Visual representation of your tech stack and learning path
-3. **Project Status Table** - Current projects with progress indicators
-4. **Weekly Development Breakdown** - ASCII-style bar chart showing coding distribution
-5. **Snake Animation** - Dynamic contribution grid animation
-6. **Featured Repositories** - Pinned projects with stats
-7. **Wakatime Integration** - Shows coding activity if you have Wakatime set up
-8. **Enhanced GitHub Stats** - Custom colors and better formatting
-9. **Buy Me a Coffee Button** - Support link
-10. **Capsule Render Footer** - Beautiful gradient footer with animation
-11. **Discord Connect** - Additional social connection option
-12. **Better Visual Hierarchy** - Improved organization and spacing
-
-The typing SVG should now work perfectly as it uses the reliable Heroku endpoint that's widely used in GitHub profiles.
+JavaScript    ████████████████████░░░░░░   45.2%
+Python        ████████████░░░░░░░░░░░░░░   28.7%
+HTML/CSS      ████████░░░░░░░░░░░░░░░░░░   15.3%
+C++           ████░░░░░░░░░░░░░░░░░░░░░░   8.5%
+Others        ██░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
+</div> </details><details> <summary><b>🎯 Top Projects</b></summary> <br/>
+Project	Description	Tech Stack
+E-Commerce Platform	Full-featured online store with payment integration	MERN, Redux, Stripe
+AI Dashboard	Machine learning analytics dashboard	React, Python, TensorFlow
+Social Media App	Real-time social networking platform	MERN, Socket.io, Tailwind
+Portfolio Website	Personal portfolio with animations	React, Three.js, Framer
+</details>
+🏆 Achievements
+<div align="center"> <table> <tr> <td align="center"> <img src="https://img.shields.io/badge/🏆-Open%20Source%20Contributor-brightgreen?style=for-the-badge"/> </td> <td align="center"> <img src="https://img.shields.io/badge/🎯-500%2B%20Problems%20Solved-blue?style=for-the-badge"/> </td> <td align="center"> <img src="https://img.shields.io/badge/🚀-10%2B%20Live%20Projects-success?style=for-the-badge"/> </td> </tr> </table> </div>
+📱 Connect With Me
+<div align="center"> <a href="https://linkedin.com/in/tauhid-topu"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/tauhid_topu"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://github.com/tauhid-topu-007"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:t.topu021@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://portfoliotauhidtopu.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> </div>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/tauhid-topu-007/tauhid-topu-007/output/github-contribution-grid-snake.svg" /> </div>
+✨ Random Dev Quote
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" /> </div>
