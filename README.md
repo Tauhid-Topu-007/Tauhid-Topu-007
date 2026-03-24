@@ -42,7 +42,7 @@ Portfolio Website	Animated personal portfolio	React, Three.js, Framer
 <div align="center"> <a href="https://linkedin.com/in/tauhid-topu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/tauhid_topu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://github.com/tauhid-topu-007"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:t.topu021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://portfoliotauhidtopu.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a> </div>
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tauhid-topu-007/tauhid-topu-007/main/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tauhid-topu-007&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show_icons=true&line_height=24&custom_title=Contribution%20Snake" />
 </div>
 ✨ Random Dev Quote
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" /> </div>add more functionalities init 
