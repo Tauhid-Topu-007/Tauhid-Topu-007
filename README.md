@@ -1,4 +1,3 @@
-🌐 Tauhidul Islam Topu — GitHub Profile README
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Tauhidul+Islam+Topu;MERN+Stack+Developer;Machine+Learning+Enthusiast;Building+Awesome+Stuff+Daily" alt="Typing SVG" /> </div> <div align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </div> <br/> <div align="center"> <img src="https://komarev.com/ghpvc/?username=tauhid-topu-007&label=PROFILE+VIEWS&style=for-the-badge&color=00F5FF" /> <img src="https://img.shields.io/github/followers/tauhid-topu-007?style=for-the-badge&logo=github&color=00F5FF" /> <img src="https://img.shields.io/github/stars/tauhid-topu-007?style=for-the-badge&logo=github&color=00F5FF" /> </div>
 🌟 About Me
 <table> <tr> <td valign="top" width="50%">
@@ -6,7 +5,7 @@
 🔭 Building MERN Stack Applications with advanced features
 🌱 Deep diving into Machine Learning & AI
 🤝 Looking for help with DevOps & Cloud Architecture
-💬 Ask me about React, Node.js, MongoDB
+💬 Ask me about Machine Learning, React, Node.js, MongoDB
 📫 Reach me: t.topu021@gmail.com
 </td> <td valign="top" width="50%">
 🚀 Quick Stats
