@@ -185,8 +185,8 @@
     </tr>
     <tr>
       <td align="center"><font size="6"><b>450+</b></font><br/><font color="#00F5FF">📈 +18% from 2024</font></td>
-      <td align="center"><font size="6"><b>7 days</b></font><br/><font color="#00F5FF">🔥 Active since Mar 15</font></td>
-      <td align="center"><font size="6"><b>14 days</b></font><br/><font color="#00F5FF">🏆 Achieved Jan 2025</font></td>
+      <td align="center"><font size="6"><b>100+ days</b></font><br/><font color="#00F5FF">🔥 Active since Mar 15</font></td>
+      <td align="center"><font size="6"><b>100+ days</b></font><br/><font color="#00F5FF">🏆 Achieved Jan 2025</font></td>
       <td align="center"><font size="6"><b>35+ hrs</b></font><br/><font color="#00F5FF">Avg 5-6 hrs daily</font></td>
       <td align="center"><font size="6"><b>85%</b></font><br/><font color="#00F5FF">Top 10% globally</font></td>
     </tr>
