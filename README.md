@@ -9,7 +9,7 @@
 
 <br/>
 
-<!-- Working Typing SVG Animation - FIXED URL -->
+<!-- Working Typing SVG Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3500&pause=500&color=00F5FF&center=true&vCenter=true&width=1000&lines=🤖+AI%2FML+Focus+Mode+Activated+🤖;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Building+Intelligent+Systems;Computer+Vision+Specialist;NLP+%26+LLM+Researcher;MERN+Stack+Developer;15%2B+Projects+Completed;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/🤖-AI%2FML%20Specialist-FF6B6B?style=for-the-badge" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/🏆-Top%205%25-gold?style=for-the-badge" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🔥-7%20Day%20Streak-brightgreen?style=for-the-badge" />
 </div>
 
 <br/>
@@ -47,30 +49,30 @@
 
 ## 📊 **GitHub Analytics**
 
-<!-- GitHub Stats Card - FIXED -->
+<!-- GitHub Stats Card - SIMPLIFIED & WORKING -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tauhid-topu-007&show_icons=true&count_private=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&ring_color=00F5FF&include_all_commits=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tauhid-topu-007&theme=radical&hide_border=false&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=00F5FF" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tauhid-topu-007&show_icons=true&theme=radical&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tauhid-topu-007&theme=radical&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakNum=00F5FF&sideNums=00F5FF&hide_border=true" width="45%" />
 </div>
 
 <br/>
 
-<!-- Top Languages Card - FIXED -->
+<!-- Top Languages Card -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhid-topu-007&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=00F5FF&langs_count=8" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=tauhid-topu-007&theme=radical&no-frame=false&row=1&column=4" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhid-topu-007&layout=compact&theme=radical&bg_color=0D1117&title_color=00F5FF&hide_border=true&langs_count=6" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tauhid-topu-007&theme=radical&no-frame=true&row=1&column=4&margin-w=15" width="45%" />
 </div>
 
 <br/>
 
-<!-- Contribution Graph - FIXED -->
+<!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tauhid-topu-007&theme=react-dark&bg_color=0D1117&hide_border=false&color=00F5FF&line=00F5FF&point=FFFFFF&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tauhid-topu-007&theme=radical&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
 </div>
 
 <br/>
 
-<!-- GitHub Summary Cards - FIXED -->
+<!-- GitHub Summary Cards - ALTERNATIVE WORKING VERSION -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tauhid-topu-007&theme=radical" width="95%" />
 </div>
@@ -87,6 +89,42 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tauhid-topu-007&theme=radical" width="47%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tauhid-topu-007&theme=radical&utcOffset=6" width="47%" />
+</div>
+
+<br/>
+
+<!-- GitHub Stats Overview -->
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="33%">
+        <h3>📊 Total Commits</h3>
+        <p><font size="5">1,200+</font></p>
+      </td>
+      <td align="center" width="33%">
+        <h3>⭐ Total Stars</h3>
+        <p><font size="5">20+</font></p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🔀 Total Forks</h3>
+        <p><font size="5">15+</font></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <h3>📁 Repositories</h3>
+        <p><font size="5">25+</font></p>
+      </td>
+      <td align="center" width="33%">
+        <h3>👥 Followers</h3>
+        <p><font size="5">15+</font></p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🏆 GitHub Rank</h3>
+        <p><font size="5">Top 5%</font></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -128,6 +166,7 @@
         <li>💬 <strong>Ask me about:</strong> Python, TensorFlow, PyTorch</li>
         <li>📫 <strong>Reach me:</strong> t.topu021@gmail.com</li>
         <li>⚡ <strong>Fun Fact:</strong> I train models with coffee ☕</li>
+        <li>🎯 <strong>2025 Goal:</strong> Build 20+ AI Projects</li>
       </ul>
     </td>
     <td width="50%" valign="top" style="background: #0D1117; border-radius: 20px; padding: 20px;">
@@ -140,6 +179,7 @@
         <li>📊 <strong>Weekly Commits:</strong> 25-30</li>
         <li>🔥 <strong>Current Streak:</strong> 7 days</li>
         <li>🏆 <strong>GitHub Rank:</strong> Top 5%</li>
+        <li>📈 <strong>Code Frequency:</strong> 6-8 hours daily</li>
       </ul>
     </td>
   </tr>
@@ -269,6 +309,8 @@
   <img src="https://img.shields.io/badge/🤝-20%2B%20Collaborations-orange?style=for-the-badge" />
   &nbsp;
   <img src="https://img.shields.io/badge/🤖-AI%20Specialist-red?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/⭐-Featured%20Developer-gold?style=for-the-badge" />
 </div>
 
 <br/>
@@ -278,7 +320,7 @@
 ## ✨ **Developer Quotes**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20future%20is%20AI,%20and%20I'm%20building%20it%20one%20model%20at%20a%20time.&author=Tauhidul%20Islam%20Topu" width="80%" />
 </div>
 
 <br/>
@@ -307,6 +349,10 @@
   <a href="https://portfoliotauhidtopu.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/tauhidtopu">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
 </div>
 
 <br/>
@@ -318,6 +364,14 @@
 <div align="center">
   <a href="https://www.buymeacoffee.com/tauhidtopu">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me A Coffee" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.patreon.com/tauhidtopu">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sponsors/tauhid-topu-007">
+    <img src="https://img.shields.io/badge/GitHub-Sponsors-pink?style=for-the-badge&logo=githubsponsors&logoColor=white" />
   </a>
 </div>
 
@@ -343,7 +397,7 @@
 
 ---
 
-<!-- Working Footer Typing SVG - FIXED URL -->
+<!-- Working Footer Typing SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=💝+Thanks+for+visiting+my+profile!;🚀+Keep+coding+and+stay+awesome!;🔍+Stay+curious+about+AI+and+ML!;🤖+The+future+is+intelligent!;💻+Code.+Learn.+Repeat.;✨+Stars+appreciated!+⭐" alt="Footer Typing SVG" />
 </div>
