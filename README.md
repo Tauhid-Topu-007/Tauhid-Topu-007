@@ -81,7 +81,6 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tauhid-topu-007&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&ring_color=00F5FF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tauhid-topu-007&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakNum=00F5FF" />
 </div>
 
 
