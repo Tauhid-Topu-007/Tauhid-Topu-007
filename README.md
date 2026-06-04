@@ -51,7 +51,7 @@
         <li>⭐ <strong>GitHub Stars:</strong> 20+</li>
         <li>🤝 <strong>Collaborations:</strong> 10+</li>
         <li>📊 <strong>Weekly Commits:</strong> 25+</li>
-        <li>🔥 <strong>Current Streak:</strong> <img src="https://img.shields.io/badge/100+-days-brightgreen" /></li>
+        <li>🔥 <strong>Current Streak:</strong> <img src="https://img.shields.io/badge/7-days-brightgreen" /></li>
       </ul>
     </td>
   </tr>
@@ -81,6 +81,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tauhid-topu-007&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&ring_color=00F5FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tauhid-topu-007&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakNum=00F5FF" />
 </div>
 
 
