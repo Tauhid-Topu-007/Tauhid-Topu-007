@@ -85,8 +85,8 @@
       <th align="center">📅 Total Contributions (2025)</th>
     </tr>
     <tr>
-      <td align="center"><font size="5"><b>7 days</b></font><br/><font color="#00F5FF">Active since Mar 15, 2025</font></td>
-      <td align="center"><font size="5"><b>14 days</b></font><br/><font color="#00F5FF">Achieved in January 2025</font></td>
+      <td align="center"><font size="5"><b>100+ days</b></font><br/><font color="#00F5FF">Active since Mar 15, 2025</font></td>
+      <td align="center"><font size="5"><b>100+ days</b></font><br/><font color="#00F5FF">Achieved in January 2025</font></td>
       <td align="center"><font size="5"><b>450+</b></font><br/><font color="#00F5FF">📈 +18% from last year</font></td>
     </tr>
   </table>
