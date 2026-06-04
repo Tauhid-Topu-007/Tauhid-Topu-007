@@ -2,9 +2,16 @@
 <!---------------------------------- PROFILE HEADER SECTION ------------------------------------>
 <!----------------------------------------------------------------------------------------------->
 
-<!-- Animated Gradient Header -->
+<!-- Animated Gradient Header - Working Version -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0a0a2a,50:00F5FF,100:0a0a2a&text=Tauhidul%20Islam%20Topu&fontColor=FFFFFF&fontSize=45&fontAlignY=40&animation=twinkling&desc=AI%20%26%20ML%20Engineer%20%7C%20MERN%20Developer&descSize=18&descAlignY=55" width="100%" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=1&pause=500&color=00F5FF&center=true&vCenter=true&width=1000&height=100&lines=Tauhidul%20Islam%20Topu" alt="Header" />
+</div>
+
+<br/>
+
+<!-- Subtitle Typing Effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=500&color=00F5FF&center=true&vCenter=true&width=800&lines=🤖+AI%2FML+Engineer+%7C+MERN+Stack+Developer;🚀+Building+Intelligent+Systems;💡+Deep+Learning+%26+Computer+Vision;🌐+Open+Source+Contributor" alt="Subtitle" />
 </div>
 
 <br/>
