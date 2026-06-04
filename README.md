@@ -49,30 +49,76 @@
 
 ## 📊 **GitHub Analytics**
 
-<!-- GitHub Stats Card - SIMPLIFIED & WORKING -->
+<!-- Alternative Working GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tauhid-topu-007&show_icons=true&theme=radical&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tauhid-topu-007&theme=radical&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakNum=00F5FF&sideNums=00F5FF&hide_border=true" width="45%" />
-</div>
-
-<br/>
-
-<!-- Top Languages Card -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhid-topu-007&layout=compact&theme=radical&bg_color=0D1117&title_color=00F5FF&hide_border=true&langs_count=6" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=tauhid-topu-007&theme=radical&no-frame=true&row=1&column=4&margin-w=15" width="45%" />
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <h3>📊 GitHub Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=tauhid-topu-007&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <h3>⚡ Streak Stats</h3>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=tauhid-topu-007&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakNum=00F5FF&sideNums=00F5FF" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>📚 Top Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhid-topu-007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&langs_count=8" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <h3>🏆 GitHub Trophies</h3>
+        <img src="https://github-profile-trophy.vercel.app/?username=tauhid-topu-007&theme=radical&no-frame=true&row=1&column=4&margin-w=15" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <!-- Contribution Graph -->
 <div align="center">
+  <h3>📅 Contribution Graph</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tauhid-topu-007&theme=radical&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
 </div>
 
 <br/>
 
-<!-- GitHub Summary Cards - ALTERNATIVE WORKING VERSION -->
+<!-- GitHub Stats Overview Table -->
+<div align="center">
+  <h3>📈 GitHub Statistics Overview</h3>
+  <table width="100%">
+    <tr>
+      <th align="center" width="25%">Total Commits</th>
+      <th align="center" width="25%">Total Stars</th>
+      <th align="center" width="25%">Total Forks</th>
+      <th align="center" width="25%">Repositories</th>
+    </tr>
+    <tr>
+      <td align="center"><font size="6"><b>1,200+</b></font></td>
+      <td align="center"><font size="6"><b>20+</b></font></td>
+      <td align="center"><font size="6"><b>15+</b></font></td>
+      <td align="center"><font size="6"><b>25+</b></font></td>
+    </tr>
+    <tr>
+      <th align="center" width="25%">Followers</th>
+      <th align="center" width="25%">Following</th>
+      <th align="center" width="25%">GitHub Rank</th>
+      <th align="center" width="25%">Contributions (2025)</th>
+    </tr>
+    <tr>
+      <td align="center"><font size="6"><b>15+</b></font></td>
+      <td align="center"><font size="6"><b>10+</b></font></td>
+      <td align="center"><font size="6"><b>Top 5%</b></font></td>
+      <td align="center"><font size="6"><b>450+</b></font></td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- Detailed Stats Cards -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tauhid-topu-007&theme=radical" width="95%" />
 </div>
@@ -89,42 +135,6 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tauhid-topu-007&theme=radical" width="47%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tauhid-topu-007&theme=radical&utcOffset=6" width="47%" />
-</div>
-
-<br/>
-
-<!-- GitHub Stats Overview -->
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="33%">
-        <h3>📊 Total Commits</h3>
-        <p><font size="5">1,200+</font></p>
-      </td>
-      <td align="center" width="33%">
-        <h3>⭐ Total Stars</h3>
-        <p><font size="5">20+</font></p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🔀 Total Forks</h3>
-        <p><font size="5">15+</font></p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <h3>📁 Repositories</h3>
-        <p><font size="5">25+</font></p>
-      </td>
-      <td align="center" width="33%">
-        <h3>👥 Followers</h3>
-        <p><font size="5">15+</font></p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🏆 GitHub Rank</h3>
-        <p><font size="5">Top 5%</font></p>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <br/>
