@@ -9,10 +9,6 @@
 
 <br/>
 
-<!-- Subtitle Typing Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=500&color=00F5FF&center=true&vCenter=true&width=800&lines=🤖+AI%2FML+Engineer+%7C+MERN+Stack+Developer;🚀+Building+Intelligent+Systems;💡+Deep+Learning+%26+Computer+Vision;🌐+Open+Source+Contributor" alt="Subtitle" />
-</div>
 
 <br/>
 
