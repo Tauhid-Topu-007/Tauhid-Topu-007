@@ -1,0 +1,11 @@
+{
+  "name": "github-profile-tauhid-topu",
+  "version": "1.0.0",
+  "description": "Advanced GitHub Profile",
+  "scripts": {
+    "update": "node scripts/update-readme.js",
+    "streak": "python scripts/update-streak.py"
+  },
+  "author": "Tauhidul Islam Topu",
+  "license": "MIT"
+}
