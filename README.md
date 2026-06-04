@@ -4,7 +4,7 @@
 
 <!-- Animated Gradient Header with 3D Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0a0a2a,50:00F5FF,100:0a0a2a&text=Tauhidul%20Islam%20Topu&fontColor=FFFFFF&fontSize=45&fontAlignY=40&animation=twinkling&desc=AI%20%26%20ML%20Engineer%20%7C%20MERN%20Developer&descSize=18&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0a0a2a,50:00F5FF,100:0a0a2a&text=Tauhidul%20Islam%20Topu&fontColor=FFFFFF&fontSize=45&fontAlignY=40&animation=twinkling&desc=AI%20%26%20ML%20Engineer%20%7C%20MERN%20Developer&descSize=18&descAlignY=55" />
 </div>
 
 <br/>
