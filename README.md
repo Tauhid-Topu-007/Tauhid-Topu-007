@@ -37,10 +37,6 @@
   <!-- Row 1 -->
   <img src="https://komarev.com/ghpvc/?username=tauhid-topu-007&label=👁️+PROFILE+VIEWS&style=for-the-badge&color=0a66c2" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/tauhid-topu-007?style=for-the-badge&logo=github&color=0a66c2&label=🚀+FOLLOWERS" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/tauhid-topu-007?style=for-the-badge&logo=github&color=0a66c2&label=⭐+TOTAL+STARS" />
-  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/🤖-AI%2FML%20Specialist-FF6B6B?style=for-the-badge" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/🏆-Top%205%25-gold?style=for-the-badge" />
