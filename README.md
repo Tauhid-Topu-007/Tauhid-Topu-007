@@ -51,7 +51,7 @@
         <li>⭐ <strong>GitHub Stars:</strong> 20+</li>
         <li>🤝 <strong>Collaborations:</strong> 10+</li>
         <li>📊 <strong>Weekly Commits:</strong> 25+</li>
-        <li>🔥 <strong>Current Streak:</strong> <img src="https://img.shields.io/badge/7-days-brightgreen" /></li>
+        <li>🔥 <strong>Current Streak:</strong> <img src="https://img.shields.io/badge/100+-days-brightgreen" /></li>
       </ul>
     </td>
   </tr>
