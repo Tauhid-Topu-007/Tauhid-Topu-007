@@ -1,28 +1,36 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Tauhidul+Islam+Topu;MERN+Stack+Developer;Machine+Learning+Enthusiast;Building+Awesome+Stuff+Daily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I'm+Tauhidul+Islam+Topu;MERN+Stack+Developer;Machine+Learning+Enthusiast;Building+Awesome+Stuff+Daily" alt="Typing SVG" />
 </div>
 
 <br/>
 
+<!-- Full Width Banner Image -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tauhid-topu-007/tauhid-topu-007/main/Topu.png" width="900" height="250" alt="Banner" style="border-radius: 10px;"/>
+  <img src="Topu.png" width="100%" alt="Banner" style="max-width: 100%; height: auto; border-radius: 10px;" />
 </div>
 
 <br/>
 
+<!-- Profile Views & Stats Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tauhid-topu-007&label=PROFILE+VIEWS&style=for-the-badge&color=00F5FF" />
-  <img src="https://img.shields.io/github/followers/tauhid-topu-007?style=for-the-badge&logo=github&color=00F5FF" />
-  <img src="https://img.shields.io/github/stars/tauhid-topu-007?style=for-the-badge&logo=github&color=00F5FF" />
+  <img src="https://komarev.com/ghpvc/?username=tauhid-topu-007&label=PROFILE+VIEWS&style=for-the-badge&color=0a66c2" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/tauhid-topu-007?style=for-the-badge&logo=github&color=0a66c2" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/tauhid-topu-007?style=for-the-badge&logo=github&color=0a66c2" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/🚀-Active%20Contributor-brightgreen?style=for-the-badge" />
 </div>
 
 <br/>
 
+<!-- Animated Gradient Border -->
 <img src="https://raw.githubusercontent.com/tauhid-topu-007/tauhid-topu-007/main/gradient-border.svg" width="100%" />
 
-<!-- About Me Section -->
-<table>
+<br/>
+
+<!-- About Me and Quick Stats Side by Side -->
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h2 align="center">🌟 About Me</h2>
@@ -49,36 +57,50 @@
   </tr>
 </table>
 
+<br/>
+
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,python" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,git,github" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=firebase,aws,docker,mysql,postgresql,redis" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,sass,styledcomponents" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,aws,docker,nginx,postman" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,graphql,redux,nextjs" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,pytorch,tensorflow,opencv,selenium" />
 </div>
 
-<!-- GitHub Stats -->
+<br/>
+
+<!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tauhid-topu-007&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tauhid-topu-007&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=00F5FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tauhid-topu-007&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&ring_color=00F5FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tauhid-topu-007&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakNum=00F5FF" />
 </div>
+
+<br/>
 
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhid-topu-007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF" />
-  <img width="45%" src="https://github-profile-trophy.vercel.app/?username=tauhid-topu-007&theme=radical&no-frame=true&row=2&column=4" />
+  <img width="45%" src="https://github-profile-trophy.vercel.app/?username=tauhid-topu-007&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
+
+<br/>
 
 <!-- Contribution Graph -->
 <h2 align="center">📅 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tauhid-topu-007&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F5FF&line=00F5FF&point=FFFFFF&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tauhid-topu-007&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&area_color=00F5FF&radius=10" width="95%" />
 </div>
+
+<br/>
 
 <!-- Snake Animation -->
 <h2 align="center">🐍 Contribution Snake</h2>
@@ -87,22 +109,92 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tauhid-topu-007/tauhid-topu-007/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tauhid-topu-007/tauhid-topu-007/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tauhid-topu-007/tauhid-topu-007/output/github-snake.svg" width="80%" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tauhid-topu-007/tauhid-topu-007/output/github-snake.svg" width="100%" />
   </picture>
+  <br/>
+  <em>⚡ The snake eats my contributions when I don't push code! <br/> 💪 Green squares = Days I'm actively coding</em>
 </div>
 
-<!-- Connect With Me -->
-<h2 align="center">📱 Connect With Me</h2>
+<br/>
+
+<!-- Featured Projects -->
+<h2 align="center">🎯 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tauhidul-islam-topu-1a04b31ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/TOPU30319093"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/tauhid-topu-007"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:t.topu021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://portfoliotauhidtopu.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <h3 align="center">🛒 E-Commerce Platform</h3>
+        <p align="center">Full-featured online store with payment integration</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/MERN-blue" />
+          <img src="https://img.shields.io/badge/Redux-purple" />
+          <img src="https://img.shields.io/badge/Stripe-green" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🤖 AI Dashboard</h3>
+        <p align="center">ML analytics dashboard with real-time predictions</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-blue" />
+          <img src="https://img.shields.io/badge/TensorFlow-orange" />
+          <img src="https://img.shields.io/badge/Python-yellow" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">💬 Social Media App</h3>
+        <p align="center">Real-time chat and social networking platform</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/MERN-blue" />
+          <img src="https://img.shields.io/badge/Socket.io-black" />
+          <img src="https://img.shields.io/badge/Tailwind-cyan" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎨 Portfolio Website</h3>
+        <p align="center">Animated 3D portfolio with modern design</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-blue" />
+          <img src="https://img.shields.io/badge/Three.js-black" />
+          <img src="https://img.shields.io/badge/Framer-purple" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Footer -->
+<br/>
+
+<!-- Achievements -->
+<h2 align="center">🏆 Achievements & Badges</h2>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" />
+  <img src="https://img.shields.io/badge/🏆-Open%20Source%20Contributor-brightgreen?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎯-500%2B%20Problems%20Solved-blue?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🚀-15%2B%20Live%20Projects-success?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🤝-20%2B%20Collaborations-orange?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/⭐-Featured%20Developer-gold?style=for-the-badge" />
 </div>
+
+<br/>
+
+<!-- Coding Activity -->
+<h2 align="center">📈 Weekly Coding Activity</h2>
+
+<details>
+  <summary><b>📊 Click to see breakdown</b></summary>
+  <br/>
+  
+  ```mermaid
+  pie title Languages Distribution
+    "JavaScript/TypeScript" : 45
+    "Python" : 28
+    "HTML/CSS" : 15
+    "C++/Java" : 8
+    "Others" : 4
