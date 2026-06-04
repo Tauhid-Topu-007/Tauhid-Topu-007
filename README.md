@@ -84,12 +84,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tauhid-topu-007&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakNum=00F5FF" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhid-topu-007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF" />
-  <img width="45%" src="https://github-profile-trophy.vercel.app/?username=tauhid-topu-007&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-</div>
 
 <br/>
 
