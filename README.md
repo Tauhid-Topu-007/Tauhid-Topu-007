@@ -24,7 +24,7 @@
 
 <!-- Banner Image with Hover Effect -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tauhid-topu-007/tauhid-topu-007/main/Topu.png" width="100%" alt="Banner" style="max-width: 100%; height: auto; border-radius: 20px; box-shadow: 0 0 40px rgba(0,245,255,0.3); transition: transform 0.3s;" />
+  <img src="Topu.png" width="100%" alt="Banner" style="max-width: 100%; height: auto; border-radius: 20px; box-shadow: 0 0 40px rgba(0,245,255,0.3);" />
 </div>
 
 <br/>
@@ -66,43 +66,32 @@
 
 ## 📊 **GitHub Analytics Dashboard**
 
-<!-- Row 1: GitHub Stats + Streak Stats -->
+<!-- ONLY REMOVED: GitHub Stats, Top Languages, GitHub Trophies -->
+<!-- RETAINED: Streak Stats, Contribution Graph, Summary Cards -->
+
 <div align="center">
-  <table width="100%">
+  <h3>⚡ Streak Statistics</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tauhid-topu-007&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakNum=00F5FF&sideNums=00F5FF&currStreakLabel=00F5FF&sideLabels=00F5FF" width="60%" />
+  
+  <br/><br/>
+  
+  <table width="50%" style="background: #0D1117; border-radius: 10px; padding: 10px;">
     <tr>
-      <td align="center" width="50%" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); border-radius: 15px; padding: 15px;">
-        <h3>📊 GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=tauhid-topu-007&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&ring_color=00F5FF&include_all_commits=true" width="100%" />
-      </td>
-      <td align="center" width="50%" style="background: linear-gradient(135deg, #1a1a2e 0%, #0D1117 100%); border-radius: 15px; padding: 15px;">
-        <h3>⚡ Streak Stats</h3>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tauhid-topu-007&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakNum=00F5FF&sideNums=00F5FF&currStreakLabel=00F5FF&sideLabels=00F5FF" width="100%" />
-      </td>
+      <th align="center">🔥 Current Streak</th>
+      <th align="center">🏆 Best Streak</th>
+      <th align="center">📅 Total Contributions (2025)</th>
+    </tr>
+    <tr>
+      <td align="center"><font size="5"><b>7 days</b></font><br/><font color="#00F5FF">Active since Mar 15, 2025</font></td>
+      <td align="center"><font size="5"><b>14 days</b></font><br/><font color="#00F5FF">Achieved in January 2025</font></td>
+      <td align="center"><font size="5"><b>450+</b></font><br/><font color="#00F5FF">📈 +18% from last year</font></td>
     </tr>
   </table>
 </div>
 
 <br/>
 
-<!-- Row 2: Top Languages + GitHub Trophies -->
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="50%" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); border-radius: 15px; padding: 15px;">
-        <h3>📚 Top Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhid-topu-007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&langs_count=10" width="100%" />
-      </td>
-      <td align="center" width="50%" style="background: linear-gradient(135deg, #1a1a2e 0%, #0D1117 100%); border-radius: 15px; padding: 15px;">
-        <h3>🏆 GitHub Trophies</h3>
-        <img src="https://github-profile-trophy.vercel.app/?username=tauhid-topu-007&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<!-- Row 3: Contribution Graph -->
+<!-- Contribution Graph -->
 <div align="center">
   <h3>📅 Contribution Graph</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tauhid-topu-007&theme=radical&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&radius=15&custom_title=🔥+My+GitHub+Contribution+Journey+2025" width="95%" />
@@ -110,7 +99,7 @@
 
 <br/>
 
-<!-- Row 4: GitHub Summary Cards -->
+<!-- GitHub Summary Cards -->
 <div align="center">
   <h3>📊 GitHub Summary Cards</h3>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tauhid-topu-007&theme=radical" width="95%" />
@@ -420,7 +409,7 @@
       </ul>
     </td>
   </tr>
-</table>
+</tr>
 
 <br/>
 
@@ -613,23 +602,6 @@
   <a href="https://github.com/sponsors/tauhid-topu-007">
     <img src="https://img.shields.io/badge/GitHub_Sponsors-pink?style=for-the-badge&logo=githubsponsors&logoColor=white" />
   </a>
-  
-  <br/><br/>
-  
-  <details>
-    <summary><b>💰 Crypto Donations</b></summary>
-    <br/>
-    <table width="60%" align="center">
-      <tr>
-        <td><strong>Bitcoin (BTC):</strong></td>
-        <td><code>bc1q...xyz</code></td>
-      </tr>
-      <tr>
-        <td><strong>Ethereum (ETH):</strong></td>
-        <td><code>0x742...abc</code></td>
-      </tr>
-    </table>
-  </details>
 </div>
 
 <br/>
