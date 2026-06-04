@@ -3,29 +3,44 @@ node_modules/
 .env
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
 # Build outputs
 dist/
 build/
 *.log
+*.tmp
 
 # IDE
 .vscode/
 .idea/
 *.swp
+*.swo
+*~
+.DS_Store
 
 # OS
-.DS_Store
 Thumbs.db
+Desktop.ini
 
 # Secrets
 *.key
+*.pem
+*.cert
 secrets/
+.github_token
+*.secret
 
 # Metrics cache
 metrics/*.json
 !metrics/.gitkeep
 
 # Temporary files
-*.tmp
 temp/
+tmp/
+*.temp
+
+# Package managers
+package-lock.json
+yarn.lock

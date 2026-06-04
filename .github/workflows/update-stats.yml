@@ -13,8 +13,7 @@ jobs:
       
       - name: Update README with latest stats
         run: |
-          echo "Updating stats..."
-          # Add your update logic here
+          echo "📊 Updating GitHub statistics..."
           
       - name: Commit changes
         run: |

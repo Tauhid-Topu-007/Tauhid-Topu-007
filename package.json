@@ -1,11 +1,24 @@
 {
   "name": "github-profile-tauhid-topu",
   "version": "1.0.0",
-  "description": "Advanced GitHub Profile",
+  "description": "Advanced GitHub Profile with Auto Updates",
+  "main": "scripts/update-readme.js",
   "scripts": {
     "update": "node scripts/update-readme.js",
-    "streak": "python scripts/update-streak.py"
+    "streak": "python3 scripts/update-streak.py",
+    "stats": "python3 scripts/generate-stats.py",
+    "build": "npm run update && npm run streak && npm run stats",
+    "watch": "nodemon scripts/update-readme.js"
   },
+  "keywords": [
+    "github",
+    "profile",
+    "automation",
+    "statistics"
+  ],
   "author": "Tauhidul Islam Topu",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
 }
