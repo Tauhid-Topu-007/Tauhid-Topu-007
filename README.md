@@ -43,7 +43,7 @@
   
   <!-- Row 2 -->
   <br/><br/>
-  <img src="https://img.shields.io/badge/🔥-14%20Day%20Peak%20Streak-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔥-100+%20Day%20Peak%20Streak-orange?style=for-the-badge" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/📊-50%2B%20Projects-blue?style=for-the-badge" />
   &nbsp;&nbsp;
