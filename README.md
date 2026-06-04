@@ -405,7 +405,7 @@
         <li>⭐ <strong>GitHub Stars:</strong> 20+ across repos</li>
         <li>🤝 <strong>Collaborations:</strong> 10+ with global devs</li>
         <li>📊 <strong>Weekly Commits:</strong> 25-30 average</li>
-        <li>🔥 <strong>Current Streak:</strong> 7 days</li>
+        <li>🔥 <strong>Current Streak:</strong> 100+ days</li>
         <li>🏆 <strong>GitHub Rank:</strong> Top 5% globally</li>
         <li>📈 <strong>Code Frequency:</strong> 6-8 hours daily</li>
         <li>💻 <strong>Lines Written:</strong> 50,000+ in 2025</li>
@@ -568,19 +568,19 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://portfoliotauhidtopu.netlify.app/">
+  <a href="https://portfolio-frontend-rust-six.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.kaggle.com/tauhidtopu">
+  <a href="https://www.kaggle.com/tauhidulislamtopu">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://discord.com/users/tauhid.topu">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://www.facebook.com/tauhid.topu.313">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://medium.com/@tauhidtopu">
+  <a href="https://medium.com/@t.topu021">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </div>
