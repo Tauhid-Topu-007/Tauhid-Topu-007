@@ -98,29 +98,6 @@
 
 <br/>
 
-<!-- GitHub Summary Cards -->
-<div align="center">
-  <h3>📊 GitHub Summary Cards</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tauhid-topu-007&theme=radical" width="95%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tauhid-topu-007&theme=radical" width="47%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tauhid-topu-007&theme=radical" width="47%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tauhid-topu-007&theme=radical" width="47%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tauhid-topu-007&theme=radical&utcOffset=6" width="47%" />
-</div>
-
-<br/>
-
----
 
 ## 📈 **Advanced Statistical Dashboard**
 
