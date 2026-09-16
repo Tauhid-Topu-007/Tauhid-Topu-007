@@ -99,30 +99,6 @@
 <br/>
 
 
-## 📈 **Advanced Statistical Dashboard**
-
-<!-- Live Metrics Grid -->
-<div align="center">
-  <h3>📊 Live GitHub Metrics</h3>
-  <table width="100%" style="background: linear-gradient(135deg, #0D1117, #1a1a2e); border-radius: 15px; padding: 20px;">
-    <tr>
-      <th align="center" width="20%">📊 Total Commits</th>
-      <th align="center" width="20%">⭐ Stars Earned</th>
-      <th align="center" width="20%">🍴 Forks Created</th>
-      <th align="center" width="20%">📁 Repos Owned</th>
-      <th align="center" width="20%">👥 Followers</th>
-    </tr>
-    <tr>
-      <td align="center"><font size="6"><b>1,200+</b></font><br/><font color="#00F5FF">📈 +15% from 2024</font></td>
-      <td align="center"><font size="6"><b>20+</b></font><br/><font color="#00F5FF">📈 +12% this year</font></td>
-      <td align="center"><font size="6"><b>15+</b></font><br/><font color="#00F5FF">📈 +8% this month</font></td>
-      <td align="center"><font size="6"><b>25+</b></font><br/><font color="#00F5FF">10 public + 15 private</font></td>
-      <td align="center"><font size="6"><b>15+</b></font><br/><font color="#00F5FF">🌍 Global reach</font></td>
-    </tr>
-  </table>
-</div>
-
-<br/>
 
 <!-- Contribution Stats -->
 <div align="center">
