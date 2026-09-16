@@ -189,44 +189,7 @@
 
 ---
 
-## 🏆 **Achievements & Badges Showcase**
 
-<div align="center">
-  <h3>🎖️ Achievements Gallery</h3>
-  
-  <!-- Achievement Badges -->
-  <img src="https://img.shields.io/badge/🏆-Open%20Source%20Contributor-0a66c2?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🎯-500%2B%20Problems%20Solved-0a66c2?style=for-the-badge&logo=leetcode&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🚀-15%2B%20Live%20Projects-0a66c2?style=for-the-badge&logo=vercel&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🤝-20%2B%20Collaborations-0a66c2?style=for-the-badge&logo=github&logoColor=white" />
-  
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/⭐-Featured%20Developer-gold?style=for-the-badge&logo=githubsponsors&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🤖-AI%20Specialist-red?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/☁️-AWS%20Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🐍-Python%20Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/📘-JavaScript%20Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/⚛️-React%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🐳-Docker%20Captain-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/📊-Data%20Scientist-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
-</div>
-
-<br/>
-
----
 
 ## 🐍 **Contribution Snake**
 
