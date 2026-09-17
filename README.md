@@ -61,8 +61,6 @@
 
 <br/>
 
----
-
 ## 📊 **GitHub Analytics Dashboard**
 
 <!-- ONLY REMOVED: GitHub Stats, Top Languages, GitHub Trophies -->
@@ -94,52 +92,6 @@
 <div align="center">
   <h3>📅 Contribution Graph</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tauhid-topu-007&theme=radical&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&radius=15&custom_title=🔥+My+GitHub+Contribution+Journey+2025" width="95%" />
-</div>
-
-<br/>
-
-
-
-<!-- Contribution Stats -->
-<div align="center">
-  <table width="100%" style="background: linear-gradient(135deg, #1a1a2e, #0D1117); border-radius: 15px; padding: 20px;">
-    <tr>
-      <th align="center" width="20%">📋 Pull Requests</th>
-      <th align="center" width="20%">🐛 Issues Opened</th>
-      <th align="center" width="20%">✅ Issues Closed</th>
-      <th align="center" width="20%">🔀 Code Reviews</th>
-      <th align="center" width="20%">🏆 Global Rank</th>
-    </tr>
-    <tr>
-      <td align="center"><font size="6"><b>35+</b></font><br/><font color="#00F5FF">Merged & Active</font></td>
-      <td align="center"><font size="6"><b>20+</b></font><br/><font color="#00F5FF">All resolved</font></td>
-      <td align="center"><font size="6"><b>15+</b></font><br/><font color="#00F5FF">75% closure rate</font></td>
-      <td align="center"><font size="6"><b>50+</b></font><br/><font color="#00F5FF">Active reviewer</font></td>
-      <td align="center"><font size="6"><b>Top 5%</b></font><br/><font color="#00F5FF">Globally</font></td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<!-- Streak & Activity Dashboard -->
-<div align="center">
-  <table width="100%" style="background: linear-gradient(135deg, #0D1117, #1a1a2e); border-radius: 15px; padding: 20px;">
-    <tr>
-      <th align="center" width="20%">📅 2025 Contributions</th>
-      <th align="center" width="20%">🔥 Current Streak</th>
-      <th align="center" width="20%">🏅 Best Streak</th>
-      <th align="center" width="20%">⏱️ Weekly Coding</th>
-      <th align="center" width="20%">📈 Productivity</th>
-    </tr>
-    <tr>
-      <td align="center"><font size="6"><b>450+</b></font><br/><font color="#00F5FF">📈 +18% from 2024</font></td>
-      <td align="center"><font size="6"><b>100+ days</b></font><br/><font color="#00F5FF">🔥 Active since Mar 15</font></td>
-      <td align="center"><font size="6"><b>100+ days</b></font><br/><font color="#00F5FF">🏆 Achieved Jan 2025</font></td>
-      <td align="center"><font size="6"><b>35+ hrs</b></font><br/><font color="#00F5FF">Avg 5-6 hrs daily</font></td>
-      <td align="center"><font size="6"><b>85%</b></font><br/><font color="#00F5FF">Top 10% globally</font></td>
-    </tr>
-  </table>
 </div>
 
 <br/>
@@ -209,94 +161,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
-
----
-
-## 🤖 **About Me (AI/ML Focus)**
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top" style="background: linear-gradient(135deg, #0a0a2a 0%, #1a1a3e 100%); border-radius: 20px; padding: 25px;">
-      <h3 align="center">🌟 About Me</h3>
-      <ul>
-        <li>💻 <strong>Current Focus:</strong> Building AI/ML Applications</li>
-        <li>🧠 <strong>Deep Dive:</strong> Deep Learning & Neural Networks</li>
-        <li>🔬 <strong>Research:</strong> Computer Vision & NLP</li>
-        <li>🤝 <strong>Looking for:</strong> AI Research Collaborations</li>
-        <li>💬 <strong>Ask me about:</strong> Python, TensorFlow, PyTorch</li>
-        <li>📫 <strong>Reach me:</strong> t.topu021@gmail.com</li>
-        <li>⚡ <strong>Fun Fact:</strong> I train models with coffee ☕</li>
-        <li>🎯 <strong>2025 Goal:</strong> Build 20+ AI Projects</li>
-        <li>🌍 <strong>Languages:</strong> Bengali (Native), English (Fluent), Hindi (Conversational)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="background: linear-gradient(135deg, #1a1a3e 0%, #0a0a2a 100%); border-radius: 20px; padding: 25px;">
-      <h3 align="center">🚀 Quick Stats</h3>
-      <ul>
-        <li>📅 <strong>Coding since:</strong> 2020 (5+ years)</li>
-        <li>🎯 <strong>Total Projects:</strong> 50+ (20 AI/ML)</li>
-        <li>⭐ <strong>GitHub Stars:</strong> 20+ across repos</li>
-        <li>🤝 <strong>Collaborations:</strong> 10+ with global devs</li>
-        <li>📊 <strong>Weekly Commits:</strong> 25-30 average</li>
-        <li>🔥 <strong>Current Streak:</strong> 100+ days</li>
-        <li>🏆 <strong>GitHub Rank:</strong> Top 5% globally</li>
-        <li>📈 <strong>Code Frequency:</strong> 6-8 hours daily</li>
-        <li>💻 <strong>Lines Written:</strong> 50,000+ in 2025</li>
-      </ul>
-    </td>
-  </tr>
-</tr>
-
-<br/>
-
----
-
-## 📈 **AI/ML Learning Progress Tracker**
-
-<div align="center">
-  <h3>🤖 AI/ML Mastery Dashboard</h3>
-  <table width="100%" style="background: linear-gradient(135deg, #0D1117, #1a1a2e); border-radius: 15px; padding: 20px;">
-    <tr>
-      <th align="center" width="30%">Domain</th>
-      <th align="center" width="50%">Progress</th>
-      <th align="center" width="20%">Status</th>
-    </tr>
-    <tr>
-      <td><b>Machine Learning Basics</b></td>
-      <td><progress value="95" max="100" style="width: 100%; height: 12px;"></progress> 95%</td>
-      <td align="center"><font color="#00FF00">✅ Expert</font></td>
-    </tr>
-    <tr>
-      <td><b>Deep Learning (CNN/RNN)</b></td>
-      <td><progress value="80" max="100" style="width: 100%; height: 12px;"></progress> 80%</td>
-      <td align="center"><font color="#00FF00">✅ Advanced</font></td>
-    </tr>
-    <tr>
-      <td><b>Computer Vision</b></td>
-      <td><progress value="75" max="100" style="width: 100%; height: 12px;"></progress> 75%</td>
-      <td align="center"><font color="#FFA500">🔄 Advanced</font></td>
-    </tr>
-    <tr>
-      <td><b>NLP & Transformers</b></td>
-      <td><progress value="65" max="100" style="width: 100%; height: 12px;"></progress> 65%</td>
-      <td align="center"><font color="#FFA500">🔄 Intermediate</font></td>
-    </tr>
-    <tr>
-      <td><b>LLM & Generative AI</b></td>
-      <td><progress value="50" max="100" style="width: 100%; height: 12px;"></progress> 50%</td>
-      <td align="center"><font color="#FFA500">📚 Learning</font></td>
-    </tr>
-    <tr>
-      <td><b>MLOps & Deployment</b></td>
-      <td><progress value="40" max="100" style="width: 100%; height: 12px;"></progress> 40%</td>
-      <td align="center"><font color="#FFA500">📚 Learning</font></td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
----
 
 ## 🛠️ **Tech Stack Arsenal**
 
