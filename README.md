@@ -25,12 +25,17 @@
 
 <br/>
 
+---
+
 <!-- Banner Image with Hover Effect -->
 <div align="center">
   <img src="Topu.png" width="100%" alt="Banner" style="max-width: 100%; height: auto; border-radius: 20px; box-shadow: 0 0 40px rgba(0,245,255,0.3);" />
 </div>
 
 <br/>
+
+---
+
 
 <!-- Profile Stats Badges - Extended -->
 <div align="center">
